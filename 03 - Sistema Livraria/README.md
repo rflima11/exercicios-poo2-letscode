@@ -52,4 +52,3 @@ Outra mudança solicitada foi que toda compra que passar de **R$200,00** em livr
  - Tente ser declarativo em relação ao nome dos métodos, classes, interfaces e variáveis.
  - Não guarde as dúvidas para você, compartilhe com os professores e a turma, as vezes mais colegas estão com o mesmo problema, ou é uma questão que não foi pensada inicialmente pelos professores.
  - Aproveite o exercício para fixar os conceitos ensinados em aula.
- - 
